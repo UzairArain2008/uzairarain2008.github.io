@@ -6,8 +6,7 @@ Built with a clean UI, responsive layout, and a **Direct Message** feature so vi
 ---
 
 ## 🌐 Live Demo
-👉 **[View Portfolio](#)**  
-_(Replace `#` with your live site link)_
+👉 **[View Portfolio](https://uzairarain2008.github.io/)**
 
 ---
 
