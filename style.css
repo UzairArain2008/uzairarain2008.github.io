@@ -344,9 +344,24 @@ h2 {
     transition: all 0.3s ease;
 }
 
-.social-links a:hover {
-    background-color: #66ff99;
-    border-color: #66ff99;
+.social-links .git:hover {
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.social-links .email:hover {
+    background-color: #ff6666;
+    border-color: #ff6666;
+}
+
+.social-links .lindin:hover {
+    background-color: #0077B5;
+    border-color: #0077B5;
+}
+
+.social-links .insta:hover {
+    background-color: #FF0069;
+    border-color: #FF0069;
 }
 
 .social-links a:hover svg path {
@@ -462,6 +477,7 @@ h2 {
         padding: 0;
         z-index: 999;
     }
+
     .hamburger {
         display: flex;
     }
